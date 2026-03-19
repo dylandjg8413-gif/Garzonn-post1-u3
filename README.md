@@ -62,10 +62,10 @@ Ejecución exitosa con:
 Las siguientes capturas demuestran el cumplimiento de los requisitos:
 
 ### Checkpoint 1
-![Captura 1](./Evidencias/Captura.PNG)
+![Captura 1](/Evidencias/Captura.PNG)
 
 ### Checkpoint 2
-![Captura 2](./Evidencias/Captura2.PNG)
+![Captura 2](/Evidencias/Captura2.PNG)
 
 ### Checkpoint 3
-![Captura 3](./Evidencias/Captura3.PNG)
+![Captura 3](/Evidencias/Captura3.PNG)
