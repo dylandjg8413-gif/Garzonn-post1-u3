@@ -54,9 +54,6 @@ Se implementaron pruebas unitarias para el `TaskViewModel`, verificando:
 
 Ejecución exitosa con:
 
-```bash
-./gradlew test
-
 ## Evidencias (Checkpoints)
 
 Las siguientes capturas demuestran el cumplimiento de los requisitos:
@@ -69,3 +66,8 @@ Las siguientes capturas demuestran el cumplimiento de los requisitos:
 
 ### Checkpoint 3
 ![Captura 3](Evidencias/Captura3.PNG)
+
+```bash
+./gradlew test
+
+
