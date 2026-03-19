@@ -44,7 +44,6 @@ Configuración de Hilt:
 - StateFlow
 - JUnit (Pruebas unitarias)
 
-
 ## Pruebas unitarias
 
 Se implementaron pruebas unitarias para el `TaskViewModel`, verificando:
@@ -63,10 +62,10 @@ Ejecución exitosa con:
 Las siguientes capturas demuestran el cumplimiento de los requisitos:
 
 ### Checkpoint 1
-![Captura 1](./Evidencias/Captura.png)
+![Captura 1](./Evidencias/Captura.PNG.png)
 
 ### Checkpoint 2
-![Captura 2](./Evidencias/Captura2.png)
+![Captura 2](./Evidencias/Captura2.PNG.png)
 
 ### Checkpoint 3
-![Captura 3](./Evidencias/Captura3.png)
+![Captura 3](./Evidencias/Captura3.PNG.png)
